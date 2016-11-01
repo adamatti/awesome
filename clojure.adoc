@@ -12,4 +12,7 @@
 ** http://clojure.org/api/cheatsheet[cheatsheet]
 ** http://clojure.org/api/api[api]
 
+#### Special thanks
+* https://github.com/toff63[Christophe Marchal]
+
 Return to link:README.adoc[index]
