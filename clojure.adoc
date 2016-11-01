@@ -11,6 +11,7 @@
 * https://www.youtube.com/watch?v=jOX0uK3jsbI[Create first app with ring]
 * http://www.infoq.com/presentations/cider[CIDER: Building a Clojure Interactive Development Environment that Rocks in Emacs]
 * https://www.youtube.com/watch?v=VSdnJDO-xdg[Clojure made simple]
+* https://www.infoq.com/presentations/Clojure-Design-Patterns[Design Patterns]
 
 #### Ways to learn
 * https://www.4clojure.com[4clojure]
@@ -32,6 +33,11 @@
 #### IDE
 * https://cursive-ide.com[Cursive]
 * http://lighttable.com[LighTable]
+
+#### Frameworks and libs
+* web [ https://github.com/ring-clojure/ring/wiki/Getting-Started[ring] / https://github.com/weavejester/compojure[compojure] | http://www.luminusweb.net[luminus] ]
+* helpers [ https://github.com/noir-clojure/lib-noir[noir] | http://docs.caudate.me/hara[hara] ]
+* sql [ http://sqlkorma.com[Korma] ]
 
 #### Special thanks
 * https://github.com/toff63[Christophe Marchal]
