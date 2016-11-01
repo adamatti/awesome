@@ -1,0 +1,15 @@
+* Concepts
+** http://clojure.org/about/rationale[rationale]
+** http://clojure.org/about/state[state]
+* Videos
+** https://www.infoq.com/presentations/hickey-clojure[Clojure] by Rich Hickey
+** https://www.infoq.com/presentations/Value-Values[Keynote: The Value of Values] by Rich Hickey
+** https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012[Simple Made Easy] by Rich Hickey
+** https://www.infoq.com/presentations/Design-Composition-Performance[Design, Composition and Performance] by Rich Hickey
+** https://www.infoq.com/presentations/Clojure-in-the-Field[Clojure in the Field] by Stuart Halloway
+* Ways to learn
+** https://www.4clojure.com[4clojure]
+** http://clojure.org/api/cheatsheet[cheatsheet]
+** http://clojure.org/api/api[api]
+
+Return to link:README.adoc[index]
