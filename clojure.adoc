@@ -28,6 +28,7 @@
 * https://dzone.com/articles/clojure-basics-for-java-developers[... for java devs]
 
 #### Books
+* http://www.braveclojure.com/clojure-for-the-brave-and-true/[Clojure for the Brave and True]
 * https://en.wikibooks.org/wiki/Clojure_Programming#Examples[Wiki Books]
 
 #### IDE
