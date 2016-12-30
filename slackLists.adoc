@@ -1,0 +1,13 @@
+List based on this https://techbeacon.com/46-slack-groups-developers[post (46 slack groups for developers)] and https://github.com/vcavalcante/slacklists[this list]
+
+These are the ones I am joined:
+* https://agilidade.slack.com[Agilidade] - pt-BR only
+* https://codecommunity.slack.com[Code Community]
+* https://functionalprogramming.slack.com[functional programming]
+* https://javaspecialists.slack.com[Java specialists]
+* https://clojurians.slack.com[Clojurians]
+* https://node-js.slack.com[Node-js]
+* https://meetupsbrasil.slack.com[Meetups Brasil] - pt-BR only
+* https://nodebr.slack.com[NodeBR] - pt-BR only
+
+Return to link:README.adoc[index]

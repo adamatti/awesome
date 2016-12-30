@@ -3,4 +3,8 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 * https://github.com/sindresorhus/awesome/blob/master/awesome.md[What is an awesome list?]
 
 #### Programing Languages
-* JVM [ link:clojure.adoc[clojure] ]
+* JVM [ link:clojure.adoc[clojure] | link:groovy.adoc[groovy] ]
+* Javascript [ link:node.adoc[node] ]
+
+#### Other Links
+* link:slackList.adoc[Slack Lists]
