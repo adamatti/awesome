@@ -7,4 +7,4 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 * Javascript [ link:node.adoc[node] ]
 
 #### Other Links
-* link:slackList.adoc[Slack Lists]
+* link:slackLists.adoc[Slack Lists]
