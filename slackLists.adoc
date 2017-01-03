@@ -11,4 +11,9 @@ These are the ones I am joined:
 * https://meetupsbrasil.slack.com[Meetups Brasil] - pt-BR only
 * https://nodebr.slack.com[NodeBR] - pt-BR only
 
+#### Other links
+* https://github.com/vcavalcante/slacklists[vcavalcante - slacklists]
+* https://github.com/joselitojunior1/slack-list-brazil[joselitojunior1 - slack-list-brazil]
+* https://github.com/matiassingers/awesome-slack[matiassingers - awesome-slack]
+
 Return to link:README.adoc[index]
