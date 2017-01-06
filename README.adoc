@@ -5,6 +5,7 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 #### Programing Languages
 * JVM [ link:clojure.adoc[clojure] | link:groovy.adoc[groovy] ]
 * Javascript [ link:node.adoc[node] ]
+* link:elixir.adoc[Elixir]
 
 #### Other Links
 * link:slackLists.adoc[Slack Lists]

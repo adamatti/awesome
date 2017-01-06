@@ -1,0 +1,12 @@
+* https://github.com/h4cc/awesome-elixir[Awesome list]
+* https://github.com/sger/ElixirBooks[Books]
+* https://elixirschool.com[Elixir School]
+* http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang[Article: debugging techniques]
+
+#### Frameworks
+* http://inaka.net/blog/2016/05/24/introducing-dayron[Dayron] - REST
+
+#### IDE
+* https://github.com/msaraiva/atom-elixir[...with atom]
+
+Return to link:README.adoc[index]
