@@ -35,6 +35,7 @@
 * https://cursive-ide.com[Cursive]
 * http://lighttable.com[LighTable]
 * https://atom.io/[Atom] [ https://atom.io/packages/proto-repl[proto-repl] ]
+* Web [ http://nightcoders.net[Night Coders] ]
 
 #### Frameworks and libs
 * web [ https://github.com/ring-clojure/ring/wiki/Getting-Started[ring] / https://github.com/weavejester/compojure[compojure] | http://www.luminusweb.net[luminus] ]
