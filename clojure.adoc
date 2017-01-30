@@ -41,6 +41,9 @@
 * helpers [ https://github.com/noir-clojure/lib-noir[noir] | http://docs.caudate.me/hara[hara] ]
 * sql [ http://sqlkorma.com[Korma] ]
 
+#### Other awesome lists
+* https://github.com/hantuzun/awesome-clojurescript[Hantuzun]
+
 #### Special thanks
 * https://github.com/toff63[Christophe Marchal]
 
