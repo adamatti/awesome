@@ -13,3 +13,6 @@ link:java.adoc[java]
 
 #### Other Links
 * link:slackLists.adoc[Slack Lists]
+
+#### Other Awesome Lists
+* https://github.com/mfornos/awesome-microservices[MicroServices] by https://github.com/mfornos[mfornos]
