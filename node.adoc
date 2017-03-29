@@ -1,3 +1,4 @@
-wip
+* https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers[21 awesome lists for devs]
+* https://github.com/node-poa[Node Porto Alegre repository]
 
 Return to link:README.adoc[index]
