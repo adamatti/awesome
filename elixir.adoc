@@ -1,7 +1,7 @@
 * https://github.com/h4cc/awesome-elixir[Awesome list]
 * https://media.pragprog.com/titles/elixir/ElixirCheat.pdf[Cheat Sheet]
 * https://learnxinyminutes.com/docs/elixir[*Elixir in Y minutes*]
-* http://howistart.org/posts/elixir/1/index.html[How I start] - from Jose Valim, the Elixir creator
+* http://howistart.org/posts/elixir/1/index.html[How I start] - by Jose Valim, the Elixir creator
 * https://github.com/sger/ElixirBooks[Books]
 * https://elixirschool.com[Elixir School]
 * http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang[Article: debugging techniques]
