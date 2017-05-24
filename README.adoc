@@ -11,6 +11,9 @@ link:java.adoc[java]
 * link:javascript.adoc[Javascript] [ link:node.adoc[node] ]
 * link:elixir.adoc[Elixir]
 
+#### Tools
+* link:docker.adoc[Docker]
+
 #### Other Links
 * link:slackLists.adoc[Slack Lists]
 
