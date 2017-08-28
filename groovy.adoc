@@ -1,3 +1,4 @@
+* http://javarevisited.blogspot.com.br/2017/08/top-5-books-to-learn-groovy-for-java.html[top 5 books to learn groovy for java developers]
 * https://twitter.com/adamatti/lists/groovy[Twitter List - Groovy]
 * https://github.com/ysb33r/groovy-vfs[VFS] - A DSL for Groovy to wrap around the Apache Commons VFS libraries
 * https://github.com/poiati/gmongo[GMongo]
