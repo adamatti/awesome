@@ -10,6 +10,7 @@ link:java.adoc[java]
 ]
 * link:javascript.adoc[Javascript] [ link:node.adoc[node] ]
 * link:elixir.adoc[Elixir]
+* link:python.adoc[Python]
 
 #### Tools
 * link:docker.adoc[Docker]
