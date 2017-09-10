@@ -13,4 +13,7 @@
 #### IDE
 * https://github.com/msaraiva/atom-elixir[...with atom]
 
+#### Videos
+* https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ[Elixir Conf]
+
 Return to link:README.adoc[index]
