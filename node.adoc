@@ -1,3 +1,24 @@
+### Frameworks / links
+
+* Fake services [
+https://github.com/sideshowcoder/canned[canned] | 
+https://github.com/indexzero/http-server[http-server] | 
+https://github.com/typicode/json-server[json-server]
+]
+* Transpilers [
+https://github.com/clojure/clojurescript[clojurescript] |
+https://github.com/Microsoft/TypeScript[typescript] |
+https://github.com/jashkenas/coffeescript[coffescript] |
+https://flow.org[flow]
+]
+* web [
+http://expressjs.com[express] | 
+http://koajs.com[koa] |
+https://hapijs.com[hapi]
+]
+
+### Other links
+
 * https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers[21 awesome lists for devs]
 * https://github.com/node-poa[Node Porto Alegre repository]
 * https://github.com/sqreen/awesome-nodejs-projects/blob/master/README.md[Awesome Node.js projects]
