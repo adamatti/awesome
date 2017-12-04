@@ -16,6 +16,10 @@ http://expressjs.com[express] |
 http://koajs.com[koa] |
 https://hapijs.com[hapi]
 ]
+* multi-threaded [
+https://github.com/Microsoft/napajs/blob/master/README.md[Napa] |
+https://nodejs.org/api/cluster.html#cluster_how_it_works[cluster]
+]
 
 ### Other links
 
