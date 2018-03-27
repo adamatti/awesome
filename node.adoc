@@ -10,8 +10,8 @@ https://github.com/clojure/clojurescript[clojurescript] |
 https://github.com/Microsoft/TypeScript[typescript] |
 https://github.com/jashkenas/coffeescript[coffescript] |
 https://flow.org[flow]
-** https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a[How to debug TS with VSCode]
 ]
+** https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a[How to debug TS with VSCode]
 * web [
 http://expressjs.com[express] | 
 http://koajs.com[koa] |
