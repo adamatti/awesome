@@ -2,5 +2,8 @@
 https://github.com/wercker/stern[stern] |
 https://github.com/johanhaleby/kubetail[kubetail]
 ]
+* tools [
+https://github.com/weaveworks/scope[WeaveScope]
+]
 
 Return to link:README.adoc[index]
