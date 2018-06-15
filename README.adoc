@@ -14,6 +14,7 @@ link:java.adoc[java]
 
 #### Tools
 * link:docker.adoc[Docker]
+* link:kubernetes.adoc[Kubernetes]
 
 #### Other Links
 * link:slackLists.adoc[Slack Lists]
