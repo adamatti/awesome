@@ -14,6 +14,7 @@ link:java.adoc[java]
 
 #### Tools
 * link:docker.adoc[Docker]
+* link:kafka.adoc[Kafka]
 * link:kubernetes.adoc[Kubernetes]
 
 #### Other Links

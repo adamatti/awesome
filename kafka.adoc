@@ -1,0 +1,4 @@
+* https://cwiki.apache.org/confluence/display/KAFKA/Clients#Clients-Node.js[Clients]
+* https://hub.docker.com/r/sheepkiller/kafka-manager[Kafka Manager] (Docker image)
+
+Return to link:README.adoc[index]
