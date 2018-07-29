@@ -1,0 +1,3 @@
+* http://agilemodeling.com[Agile Modeling]: Effective Practices for Modeling and Documentation
+
+Return to link:README.adoc[index]
