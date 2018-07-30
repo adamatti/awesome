@@ -1,6 +1,11 @@
 Disclaimer: this page is for me to bookmark agile/lean/scrum/xp links or any other technique / discussion to increase quality, productivity, teamwork, etc... anything to create better teams and deliver value
 
 * http://agilemodeling.com[Agile Modeling]: Effective Practices for Modeling and Documentation
+* Pair programming tools (remote) [
+https://teletype.atom.io[atom] |
+https://code.visualstudio.com/blogs/2017/11/15/live-share[vscode] |
+https://floobits.com/help/plugins/intellij[intellij]
+]
 
 #### Code Review
 
