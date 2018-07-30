@@ -1,3 +1,9 @@
+Disclaimer: this page is for me to bookmark agile/lean/scrum/xp links or any other technique / discussion to increase quality, productivity, teamwork, etc... anything to create better teams and deliver value
+
 * http://agilemodeling.com[Agile Modeling]: Effective Practices for Modeling and Documentation
+
+#### Code Review
+
+* https://www.youtube.com/watch?v=XY6eA2_2hOg[Video - The Art of Giving and Receiving Code Reviews Gracefully - Alexandra Hill]
 
 Return to link:README.adoc[index]
