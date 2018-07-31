@@ -1,12 +1,16 @@
 Disclaimer: this page is for me to bookmark agile/lean/scrum/xp links or any other technique / discussion to increase quality, productivity, teamwork, etc... anything to create better teams and deliver value
 
 * http://agilemodeling.com[Agile Modeling]: Effective Practices for Modeling and Documentation
-* https://www.infoq.com/br/news/2018/02/spotify-agile-nirvana[Artigo: modelo spotify]
 * Pair programming tools (remote) [
 https://teletype.atom.io[atom] |
 https://code.visualstudio.com/blogs/2017/11/15/live-share[vscode] |
 https://floobits.com/help/plugins/intellij[intellij]
 ]
+
+#### Spotify
+
+* https://www.infoq.com/br/news/2018/02/spotify-agile-nirvana[Artigo: modelo spotify]
+* https://blog.crisp.se/wp-content/uploads/2016/06/Spotify-Rhythm-Agila-Sverige.pdf[PDF - Spotify Rhythm: How we create focus]
 
 #### Code Review
 
