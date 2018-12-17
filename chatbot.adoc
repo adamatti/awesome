@@ -1,0 +1,15 @@
+* http://botstar.com[BotStar]
+
+#### Libs / Fameworks
+* https://hubot.github.com[Hubot]
+* http://botmasterai.com[BotMaster]
+* https://botpress.io[BotPress] 
+
+#### Integrations
+* https://www.integromat.com[Integromat]
+* https://zapier.com[Zapier]
+
+#### Other Awesome Lists
+* https://github.com/GetStoryline/awesome-bots[bots]
+
+Return to link:README.adoc[index]
