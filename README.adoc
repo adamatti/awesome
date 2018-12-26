@@ -24,3 +24,4 @@ link:java.adoc[java]
 * https://github.com/mfornos/awesome-microservices[MicroServices] by https://github.com/mfornos[mfornos]
 * https://github.com/sebastianharko/adv-es-cqrs-ddd[Event Sourcing / CQRS / DDD] by https://github.com/sebastianharko[sebastianharko]
 * https://github.com/GetStoryline/awesome-bots[bots]
+* https://github.com/italojs/awesome-machine-learning-portugues[Machine learning] (pt-br)
