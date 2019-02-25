@@ -2,6 +2,7 @@
 * https://twitter.com/adamatti/lists/groovy[Twitter List - Groovy]
 
 #### Frameworks / libs
+* https://github.com/JonasHavers/awesome-micronaut[Awesome Micronaut]
 * https://github.com/ysb33r/groovy-vfs[VFS] - A DSL for Groovy to wrap around the Apache Commons VFS libraries
 * https://github.com/poiati/gmongo[GMongo]
 
