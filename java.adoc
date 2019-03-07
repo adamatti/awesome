@@ -1,3 +1,26 @@
+#### Microservices Frameworks
+
+* https://micronaut.io/[Micronaut]
+* https://quarkus.io[Quarkus]
+* http://sparkjava.com/[Spark Java]
+* https://ratpack.io/[Ratpack]
+* https://spring.io/projects/spring-boot[Spring Boot]
+
+#### JVM Languages
+
+* http://groovy-lang.org/[Groovy]
+* https://kotlinlang.org/[Kotlin]
+* https://clojure.org/[Clojure]
+* https://www.scala-lang.org[Scala]
+* https://www.jruby.org/[JRuby]
+* https://www.jython.org/[Jython]
+* https://ceylon-lang.org/[Ceylon]
+* http://fantom-lang.org/[Fantom]
+* https://gosu-lang.github.io[Gosu]
+* https://www.eclipse.org/xtend/[XTend]
+
+#### Other Lists
+
 * http://java-lang.github.io/awesome-java[List by java-lang]
 * https://github.com/akullpp/awesome-java[List by akullpp]
 
