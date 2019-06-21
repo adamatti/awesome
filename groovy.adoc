@@ -9,6 +9,7 @@
 #### Other Links
 * https://github.com/virtualdogbert/Groovy_Links[Groovy Links] by https://github.com/virtualdogbert[Virtual Dogbert]
 * https://medium.com/@gregory.d.dickson/why-groovy-is-so-groovy-or-a-beginners-guide-to-hacking-groovy-e0ad6f32c300[Why Groovy is so groovy or a beginners guide to hacking Groovy]
+* https://speakerdeck.com/paulk/groovy-data-science[Data Science with Groovy]
 
 #### Other Awesome Lists
 * https://github.com/kdabir/awesome-groovy/blob/master/README.md[From kdabir]
