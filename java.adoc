@@ -6,6 +6,11 @@
 * https://ratpack.io/[Ratpack]
 * https://spring.io/projects/spring-boot[Spring Boot]
 
+#### Libs to consider
+
+* https://jankotek.gitbooks.io/mapdb/[MapDB] - for local cache
+* https://github.com/OpenFeign/feign[Feign] - easy http clients
+
 #### JVM Languages
 
 * http://groovy-lang.org/[Groovy]
