@@ -1,3 +1,4 @@
+* https://www.youtube.com/watch?v=oEorhw5r2Do[Youtube: A História de Ruby on Rails - by Fabio Akita]
 * https://dev.to/iriskatastic/top-20-ruby-on-rails-web-applications[Top 20 Ruby on Rails web applications]
 
 Return to link:README.adoc[index]
