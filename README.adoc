@@ -26,3 +26,4 @@ link:java.adoc[java]
 * https://github.com/heynickc/awesome-ddd[DDD] by https://github.com/heynickc[heynickc]
 * https://github.com/GetStoryline/awesome-bots[bots]
 * https://github.com/italojs/awesome-machine-learning-portugues[Machine learning] (pt-br)
+* https://github.com/urigo/awesome-meteor[Meteor] by https://github.com/urigo[urigo]
