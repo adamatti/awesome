@@ -1,0 +1,3 @@
+* https://arrow-kt.io[Arrow - Functional companion to Kotlin's Std Lib]
+
+Return to link:README.adoc[index]
