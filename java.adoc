@@ -7,6 +7,7 @@
 * http://sparkjava.com/[Spark Java]
 * https://ratpack.io/[Ratpack]
 * https://spring.io/projects/spring-boot[Spring Boot]
+* https://github.com/envimate/httpmate[HttpMate]
 
 #### Libs to consider
 
