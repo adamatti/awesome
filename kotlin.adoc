@@ -1,3 +1,10 @@
+#### Frameworks / Libs
+
 * https://arrow-kt.io[Arrow - Functional companion to Kotlin's Std Lib]
+* https://github.com/kittinunf/fuel[Fuel - The easiest HTTP networking library for Kotlin/Android]
+
+#### Books
+
+* https://books.goalkicker.com/KotlinBook/[Kotlin Notes for Professionals]
 
 Return to link:README.adoc[index]
