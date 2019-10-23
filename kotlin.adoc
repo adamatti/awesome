@@ -2,6 +2,10 @@
 
 * https://arrow-kt.io[Arrow - Functional companion to Kotlin's Std Lib]
 * https://github.com/kittinunf/fuel[Fuel - The easiest HTTP networking library for Kotlin/Android]
+* https://github.com/MarkusAmshove/Kluent[Kluent - Fluent Assertion-Library for Kotlin]
+* https://github.com/nhaarman/mockito-kotlin[mockito-kotlin]
+* https://github.com/uchuhimo/konf[A type-safe cascading configuration library for Kotlin/Java]
+* https://github.com/arturbosch/detekt[Detekt - Static code analysis for Kotlin]
 
 #### Books
 
