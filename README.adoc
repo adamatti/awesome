@@ -6,7 +6,8 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 * JVM [
 link:clojure.adoc[clojure] |
 link:groovy.adoc[groovy] |
-link:java.adoc[java]
+link:java.adoc[java] |
+link:kotlin.adoc[kotlin]
 ]
 * link:javascript.adoc[Javascript] [ link:node.adoc[node] ]
 * link:ruby.adoc[Ruby] / link:elixir.adoc[Elixir]
