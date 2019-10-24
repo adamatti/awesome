@@ -11,4 +11,8 @@
 
 * https://books.goalkicker.com/KotlinBook/[Kotlin Notes for Professionals]
 
+#### Other lists
+
+* https://github.com/KotlinBy/awesome-kotlin[List by KotlinBy]
+
 Return to link:README.adoc[index]
