@@ -8,6 +8,8 @@
 * https://ratpack.io/[Ratpack]
 * https://spring.io/projects/spring-boot[Spring Boot]
 * https://github.com/envimate/httpmate[HttpMate]
+* https://javalin.io[Javalin]
+* https://jooby.io[Jooby]
 
 #### Libs to consider
 
