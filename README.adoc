@@ -12,6 +12,7 @@ link:kotlin.adoc[kotlin]
 * link:javascript.adoc[Javascript] [ link:node.adoc[node] ]
 * link:ruby.adoc[Ruby] / link:elixir.adoc[Elixir]
 * link:python.adoc[Python]
+* link:rust.adoc[Rust]
 
 #### Tools
 * link:docker.adoc[Docker]
