@@ -1,0 +1,12 @@
+* Models
+** https://nvie.com/posts/a-successful-git-branching-model/[Git Flow]
+** https://trunkbaseddevelopment.com[Trunk Base]
+* Company repos
+** http://github.com[GitHub]
+** https://bitbucket.org[BitBucket]
+** http://gitlab.com[GitLab]
+* Tools
+** https://www.gitkraken.com[GitKraken]
+** https://pypi.org/project/git-fame[git-fame]
+
+Return to link:README.adoc[index]
