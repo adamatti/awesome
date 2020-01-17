@@ -9,4 +9,8 @@
 ** https://www.gitkraken.com[GitKraken]
 ** https://pypi.org/project/git-fame[git-fame]
 
+#### Other Awesome Lists
+
+* https://github.com/dictcp/awesome-git[From dictcp]
+
 Return to link:README.adoc[index]
