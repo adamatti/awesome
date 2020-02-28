@@ -1,0 +1,21 @@
+* https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/[The Software Architecture Chronicles]
+* https://github.com/donnemartin/system-design-primer[The System Design Primer]
+
+#### Decisions
+
+* https://adr.github.io/[ADR - Architectural Decision Records]
+* https://www.atlassian.com/team-playbook/plays/daci[DACI]
+
+#### Books
+
+* http://dataintensive.net[Designing Data-Insensive Applications]
+* https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164[Clean Architecture]
+
+#### Other Lists
+
+* https://github.com/mfornos/awesome-microservices[MicroServices] by https://github.com/mfornos[mfornos]
+* https://github.com/sebastianharko/adv-es-cqrs-ddd[Event Sourcing / CQRS / DDD] by https://github.com/sebastianharko[sebastianharko]
+* https://github.com/heynickc/awesome-ddd[DDD] by https://github.com/heynickc[heynickc]
+* https://github.com/simskij/awesome-software-architecture[List by simskij]
+
+Return to link:README.adoc[index]

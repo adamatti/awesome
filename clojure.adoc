@@ -1,8 +1,10 @@
 #### Concepts
+
 * http://clojure.org/about/rationale[rationale]
 * http://clojure.org/about/state[state]
 
 #### Talks and Videos
+
 * https://www.infoq.com/presentations/hickey-clojure[Clojure] by Rich Hickey
 * https://www.infoq.com/presentations/Value-Values[Keynote: The Value of Values] by Rich Hickey
 * https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012[Simple Made Easy] by Rich Hickey
@@ -14,6 +16,7 @@
 * https://www.infoq.com/presentations/Clojure-Design-Patterns[Design Patterns]
 
 #### Ways to learn
+
 * https://www.4clojure.com[4clojure]
 * http://clojure.org/api/cheatsheet[cheatsheet]
 * http://clojure.org/api/api[api]
@@ -22,30 +25,37 @@
 * http://gorilla-repl.org/[Gorilla REPL]
 
 #### Articles
+
 * https://dzone.com/articles/lets-build-a-bitbucket-add-on-in-clojure[Build a Bitbucket Add-on]
 * https://rasterize.io/blog/clojure-the-good-parts.html[The good parts]
 * http://imasters.com.br/banco-de-dados/biblioteca-de-migracao-clojure-sql/?trace=1519021197&source[DB Migration]
 * https://dzone.com/articles/clojure-basics-for-java-developers[... for java devs]
 
 #### Books
+
 * http://www.braveclojure.com/clojure-for-the-brave-and-true/[Clojure for the Brave and True]
 * https://en.wikibooks.org/wiki/Clojure_Programming#Examples[Wiki Books]
 
 #### IDE
+
 * https://cursive-ide.com[Cursive]
 * http://lighttable.com[LighTable]
 * https://atom.io/[Atom] [ https://atom.io/packages/proto-repl[proto-repl] ]
 * Web [ http://nightcoders.net[Night Coders] ]
 
 #### Frameworks and libs
+
 * web [ https://github.com/ring-clojure/ring/wiki/Getting-Started[ring] / https://github.com/weavejester/compojure[compojure] | http://www.luminusweb.net[luminus] ]
 * helpers [ https://github.com/noir-clojure/lib-noir[noir] | http://docs.caudate.me/hara[hara] ]
 * sql [ http://sqlkorma.com[Korma] ]
 
 #### Other awesome lists
+
 * https://github.com/hantuzun/awesome-clojurescript[Hantuzun]
+* https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f[yogthos]
 
 #### Special thanks
+
 * https://github.com/toff63[Christophe Marchal]
 
 Return to link:README.adoc[index]

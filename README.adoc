@@ -2,7 +2,14 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 
 * https://github.com/sindresorhus/awesome/blob/master/awesome.md[What is an awesome list?]
 
+#### General
+
+* link:architecture.adoc[Architecture / Microservices / DDD / CQRS / etc]
+* link:devops.adoc[DevOps]
+* links:chatbot.adoc[ChatBot]
+
 #### Programing Languages
+
 * JVM [
 link:clojure.adoc[clojure] |
 link:groovy.adoc[groovy] |
@@ -15,17 +22,16 @@ link:kotlin.adoc[kotlin]
 * link:rust.adoc[Rust]
 
 #### Tools
+
 * link:docker.adoc[Docker]
 * link:kafka.adoc[Kafka]
 * link:kubernetes.adoc[Kubernetes]
 
 #### Other Links
+
 * link:slackLists.adoc[Slack Lists]
 
 #### Other Awesome Lists
-* https://github.com/mfornos/awesome-microservices[MicroServices] by https://github.com/mfornos[mfornos]
-* https://github.com/sebastianharko/adv-es-cqrs-ddd[Event Sourcing / CQRS / DDD] by https://github.com/sebastianharko[sebastianharko]
-* https://github.com/heynickc/awesome-ddd[DDD] by https://github.com/heynickc[heynickc]
-* https://github.com/GetStoryline/awesome-bots[bots]
+
 * https://github.com/italojs/awesome-machine-learning-portugues[Machine learning] (pt-br)
 * https://github.com/urigo/awesome-meteor[Meteor] by https://github.com/urigo[urigo]
