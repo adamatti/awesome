@@ -17,5 +17,6 @@
 * https://github.com/sebastianharko/adv-es-cqrs-ddd[Event Sourcing / CQRS / DDD] by https://github.com/sebastianharko[sebastianharko]
 * https://github.com/heynickc/awesome-ddd[DDD] by https://github.com/heynickc[heynickc]
 * https://github.com/simskij/awesome-software-architecture[List by simskij]
+* https://github.com/zalando/engineering-principles[Zalando's Engineering and Architecture Principles]
 
 Return to link:README.adoc[index]
