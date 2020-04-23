@@ -1,0 +1,7 @@
+* https://management30.com[Management 3.0]
+
+#### Other lists
+
+* https://github.com/gabiduarte/awesome-techleads[List by gabiduarte]
+
+Return to link:README.adoc[index]
