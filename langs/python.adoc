@@ -1,3 +1,3 @@
 * https://jakevdp.github.io/PythonDataScienceHandbook[Data Science Handbook]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

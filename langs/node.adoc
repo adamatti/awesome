@@ -28,4 +28,4 @@ https://nodejs.org/api/cluster.html#cluster_how_it_works[cluster]
 * https://github.com/node-poa[Node Porto Alegre repository]
 * https://github.com/sqreen/awesome-nodejs-projects/blob/master/README.md[Awesome Node.js projects]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

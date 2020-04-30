@@ -11,21 +11,21 @@ image:https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f9
 #### Programing Languages
 
 * JVM [
-link:clojure.adoc[clojure] |
-link:groovy.adoc[groovy] |
-link:java.adoc[java] |
-link:kotlin.adoc[kotlin]
+link:langs/clojure.adoc[clojure] |
+link:langs/groovy.adoc[groovy] |
+link:langs/java.adoc[java] |
+link:langs/kotlin.adoc[kotlin]
 ]
-* link:javascript.adoc[Javascript] [ link:node.adoc[node] ]
-* link:ruby.adoc[Ruby] / link:elixir.adoc[Elixir]
-* link:python.adoc[Python]
-* link:rust.adoc[Rust]
+* link:langs/javascript.adoc[Javascript] [ link:langs/node.adoc[node] ]
+* link:langs/ruby.adoc[Ruby] / link:langs/elixir.adoc[Elixir]
+* link:langs/python.adoc[Python]
+* link:langs/rust.adoc[Rust]
 
 #### Tools
 
-* link:docker.adoc[Docker]
-* link:kafka.adoc[Kafka]
-* link:kubernetes.adoc[Kubernetes]
+* link:langs/docker.adoc[Docker]
+* link:langs/kafka.adoc[Kafka]
+* link:langs/kubernetes.adoc[Kubernetes]
 
 #### Other Links
 

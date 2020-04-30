@@ -34,4 +34,4 @@
 * http://java-lang.github.io/awesome-java[List by java-lang]
 * https://github.com/akullpp/awesome-java[List by akullpp]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

@@ -15,4 +15,4 @@
 * https://github.com/kdabir/awesome-groovy/blob/master/README.md[From kdabir]
 * https://github.com/virtualdogbert/Groovy_Links[From virtualdogbert]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

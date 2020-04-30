@@ -15,4 +15,4 @@
 
 * https://github.com/KotlinBy/awesome-kotlin[List by KotlinBy]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

@@ -58,4 +58,4 @@
 
 * https://github.com/toff63[Christophe Marchal]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

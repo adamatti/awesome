@@ -1,3 +1,3 @@
 * http://training.play-with-docker.com[Play with Docker]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

@@ -3,4 +3,4 @@
 * http://dealwithjs.io/functional-programming-in-javascript[Functional Programming]
 * https://github.com/tiagoboeing/33-js-concepts/blob/master/README.md[33 Conceitos que todo desenvolvedor JS deve conhecer]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]

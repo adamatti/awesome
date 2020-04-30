@@ -6,4 +6,4 @@ https://github.com/johanhaleby/kubetail[kubetail]
 https://github.com/weaveworks/scope[WeaveScope]
 ]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]
