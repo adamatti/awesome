@@ -23,6 +23,7 @@
 ]
 . https://brenebrown.com/[Brene Brown]
 . https://www.linkedin.com/in/leoandreucci/[Leo Andreucci]  no https://www.eventials.com/Globalcode/tdc-sp-2017-stadium-sexta-9/[TDC] e https://www.infoq.com/br/presentations/one-on-ones-aumentando-o-desempenho-uma-pessoa-de-cada-vez/[QCon]
+. https://www.radicalcandor.com/[Kim Scott] [ https://www.youtube.com/watch?v=MIh_992Nfes[Radical Candor] ]
 
 
 #### Articles, posts
