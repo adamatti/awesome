@@ -13,4 +13,4 @@
 
 * https://github.com/dictcp/awesome-git[From dictcp]
 
-Return to link:README.adoc[index]
+Return to link:../README.adoc[index]
