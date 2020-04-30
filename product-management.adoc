@@ -1,0 +1,13 @@
+#### People / References
+
+. https://www.caroli.org[Paulo Caroli] - autor do https://www.casadocodigo.com.br/products/livro-direto-ao-ponto[Direto ao Ponto]
+
+#### Other lists
+
+* https://github.com/dend/awesome-product-management[List by dend]
+* https://github.com/hugo53/awesome-ProductManager[List by hugo53]
+* https://github.com/soumendra/awesome-product-management[List by soumendra]
+* https://github.com/bjpcjp/awesome-product-management[List by bjpcjp]
+* https://github.com/AI-Sheva/awesome-product-management[List by AI-Sheva]
+
+Return to link:README.adoc[index]

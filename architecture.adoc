@@ -1,6 +1,19 @@
 * https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/[The Software Architecture Chronicles]
 * https://github.com/donnemartin/system-design-primer[The System Design Primer]
 
+#### People / References
+
+. https://twitter.com/unclebobmartin[Uncle Bob] [
+    https://www.youtube.com/watch?v=Nsjsiz2A9mg[Clean Arch]
+]
+. https://twitter.com/richhickey[Rich Hickey] [
+    https://www.youtube.com/watch?v=rI8tNMsozo0[Simplicity Matters]
+]
+. https://martinfowler.com/[Martin Fowler]
+. https://samnewman.io/[Sam Newman]
+. https://medium.com/@diogo.lucas[Diogo Lucas]
+. https://www.elemarjr.com/[Elemar Jr]
+
 #### Decisions
 
 * https://adr.github.io/[ADR - Architectural Decision Records]

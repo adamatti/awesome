@@ -1,3 +1,7 @@
+#### General / uncategorized
+
+* https://github.com/Kotlin/kotlin-jupyter[kernel for Jupyter/iPython]
+
 #### Frameworks / Libs
 
 * https://arrow-kt.io[Arrow - Functional companion to Kotlin's Std Lib]

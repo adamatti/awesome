@@ -1,9 +1,36 @@
 * https://management30.com[Management 3.0]
+    * http://www.metodoagil.com/management-30[Conheça todos os conceitos desse novo modelo de gestão]
+* http://gelp.mit.edu/capabilitiesofeffectiveengineeringleaders[Capabilities of Effective Engineering Leaders]
+* https://www.atlassian.com/team-playbook/plays/pre-mortem[Pre-mortem]
+* Mapas de desenvolvimentos [
+    https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/coach-with-the-grow-model/[grow] |
+    https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow[flow analysis]
+]
+
+
+#### People / References
+
+. https://simonsinek.com/[Simon Sinek] [
+    https://www.youtube.com/watch?v=ReRcHdeUG9Y[Why Leaders Eat Last] |
+    https://www.youtube.com/watch?v=u4ZoJKF_VuA[Start With Why]
+]
+. https://www.linkedin.com/in/luizparzianello[Luiz Parzianello] [
+    https://www.youtube.com/watch?v=ACfjTy6eKdw[Níveis Lógicos] |
+    http://leanba.com.br/niveis-logicos[image]
+]
+. https://www.johnmaxwell.com/[John Maxwell] [
+    https://www.youtube.com/watch?v=4KqL_1G8JD8[5 levels of leadership]
+]
+. https://brenebrown.com/[Brene Brown]
+. https://www.linkedin.com/in/leoandreucci/[Leo Andreucci]  no https://www.eventials.com/Globalcode/tdc-sp-2017-stadium-sexta-9/[TDC] e https://www.infoq.com/br/presentations/one-on-ones-aumentando-o-desempenho-uma-pessoa-de-cada-vez/[QCon]
+
 
 #### Articles, posts
 
 * https://www.defmacro.org/2014/10/03/engman.html[44 engineering management lessons]
 * https://www.thekua.com/atwork/2016/12/you-may-not-need-a-tech-lead-but-others-do/[You may not need a Tech Lead, but others do]
+* https://qulture.rocks/blog/projeto-aristoteles-times-incriveis/[Projeto Aristóteles: O que o Google descobriu sobre times incríveis]
+    * https://rework.withgoogle.com/print/guides/5721312655835136/[Texto detalhado do projeto, direto do google, com materiais de apoio e ferramentas]
 
 #### Other lists
 
