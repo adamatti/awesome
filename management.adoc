@@ -1,8 +1,17 @@
 * https://management30.com[Management 3.0]
+
+#### Articles, posts
+
+* https://www.defmacro.org/2014/10/03/engman.html[44 engineering management lessons]
 * https://www.thekua.com/atwork/2016/12/you-may-not-need-a-tech-lead-but-others-do/[You may not need a Tech Lead, but others do]
 
 #### Other lists
 
 * https://github.com/gabiduarte/awesome-techleads[List by gabiduarte]
+
+#### Related
+
+* link:agile.adoc[agile]
+* link:agile.adoc[devops]
 
 Return to link:README.adoc[index]
