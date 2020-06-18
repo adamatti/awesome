@@ -1,3 +1,4 @@
+* https://www.techempower.com/benchmarks[Benchmarks]
 * https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/[The Software Architecture Chronicles]
 * https://github.com/donnemartin/system-design-primer[The System Design Primer]
 
