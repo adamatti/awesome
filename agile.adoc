@@ -4,7 +4,7 @@ Disclaimer: this page is for me to bookmark agile/lean/scrum/xp links or any oth
 . https://en.wikipedia.org/wiki/Kanban[Kanban] / https://en.wikipedia.org/wiki/Lean_software_development[Lean]
 . https://en.wikipedia.org/wiki/Extreme_programming[Extreme programming]
 . http://modernagile.org/[Modern Agil]
-. https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/[Modelo Spotify]
+. https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/[Modelo Spotify] / https://www.jeremiahlee.com/posts/failed-squad-goals/[Spotify Failed]
 
 #### People / References
 
