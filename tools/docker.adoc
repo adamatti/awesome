@@ -1,3 +1,7 @@
 * http://training.play-with-docker.com[Play with Docker]
 
+#### Tools
+
+* https://github.com/jesseduffield/lazydocker[lazydocker]
+
 Return to link:../README.adoc[index]
