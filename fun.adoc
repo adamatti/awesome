@@ -1,5 +1,9 @@
 * https://shouldideploy.today/
 
+#### Process / Agile
+
+* https://www.devscansados.com.br/cascatagil.html[Cascatagil]
+
 #### Management
 
 * https://toggl.com/blog/seven-levels-developer-hell[The Seven Circles of Developer Hell - Infographic]
