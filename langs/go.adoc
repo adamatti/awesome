@@ -1,4 +1,11 @@
 * https://quii.gitbook.io/learn-go-with-tests/[Learn Go with Tests]
+* https://gobyexample.com[Go by Example]
+* https://courses.packtpub.com/courses/go[The Go Workshop]
+* https://github.com/adamatti/SandboxGo[SandboxGo]
+
+#### Fun
+
+* https://www.youtube.com/watch?v=LJvEIjRBSDA[Youtube - Write in Go]
 
 #### Other awesome lists
 
