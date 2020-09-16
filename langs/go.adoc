@@ -1,0 +1,8 @@
+* https://quii.gitbook.io/learn-go-with-tests/[Learn Go with Tests]
+
+#### Other awesome lists
+
+* https://github.com/avelino/awesome-go[avelino]
+* https://github.com/uhub/awesome-go[uhub]
+
+Return to link:../README.adoc[index]
