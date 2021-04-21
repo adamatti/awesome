@@ -1,7 +1,18 @@
 * https://quii.gitbook.io/learn-go-with-tests/[Learn Go with Tests]
 * https://gobyexample.com[Go by Example]
 * https://courses.packtpub.com/courses/go[The Go Workshop]
+
+#### Github Projects
+
+* https://github.com/TheAlgorithms/Go[TheAlgorithms]
+* https://github.com/prometheus/prometheus[Prometheus]
+* https://github.com/etcd-io/etcd[etcd]
 * https://github.com/adamatti/SandboxGo[SandboxGo]
+
+#### Books
+
+* https://www.amazon.com.br/Go-Action-William-Kennedy/dp/1617291781[Go in Action]
+* https://www.amazon.com.br/Programming-Language-Addison-Wesley-Professional-Computing-ebook/dp/B0184N7WWS[The Go Programming Language]
 
 #### Fun
 
