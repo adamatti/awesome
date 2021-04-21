@@ -21,6 +21,9 @@ https://hapijs.com[hapi]
 https://github.com/Microsoft/napajs/blob/master/README.md[Napa] |
 https://nodejs.org/api/cluster.html#cluster_how_it_works[cluster]
 ]
+* orm [ 
+https://www.prisma.io[prisma]
+]
 
 ### Other links
 
