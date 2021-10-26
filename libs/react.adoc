@@ -1,0 +1,21 @@
+#### Courses
+
+- https://www.udemy.com/course/react-the-complete-guide-incl-redux[Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)]
+
+#### Hosting
+
+- https://vercel.com[Vercel]
+
+#### Projects
+
+- https://create-react-app.dev/[Create React App]
+- https://nextjs.org/docs/api-reference/create-next-app[create-next-app]
+- https://github.com/vinc86/react-app-cleaner[react-app-cleaner]
+- https://nextjs.org[nextjs]
+
+#### Other Lists
+
+- https://github.com/enaqx/awesome-react
+- https://github.com/brillout/awesome-react-components
+
+Return to link:../README.adoc[index]
