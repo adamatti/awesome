@@ -6,4 +6,9 @@ https://github.com/johanhaleby/kubetail[kubetail]
 https://github.com/weaveworks/scope[WeaveScope]
 ]
 
+# Other Awesome lists
+
+- https://github.com/ramitsurana/awesome-kubernetes
+- https://github.com/tomhuang12/awesome-k8s-resources
+
 Return to link:../README.adoc[index]
