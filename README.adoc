@@ -33,6 +33,7 @@ link:langs/kotlin.adoc[kotlin]
 
 #### Other Awesome Lists
 
+* https://github.com/shubhamgrg04/awesome-diagramming[Diagrams]
 * https://github.com/italojs/awesome-machine-learning-portugues[Machine learning] (pt-br)
 * https://github.com/urigo/awesome-meteor[Meteor] by https://github.com/urigo[urigo]
 * Find other lists https://app.polymersearch.com/discover/github-awesome[here]
