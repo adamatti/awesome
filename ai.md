@@ -2,7 +2,6 @@
 
 - https://openai.com/blog/chatgpt
 - https://poe.com
-- https://nat.dev/
 
 # Tools
 
