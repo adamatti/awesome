@@ -13,3 +13,4 @@
   - https://github.com/modelcontextprotocol/typescript-sdk
 - https://github.com/github/github-mcp-server
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/wong2/awesome-mcp-servers
